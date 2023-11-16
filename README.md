@@ -1,3 +1,8 @@
+## IEMS469 HW3 FedAvg
+The report is shown in assignment3_report.pdf.
+The code and result are presented in the notebook [assignment3.jpynb](assignment3.jpynb).
+The training model and experiment log are solved in the folder assignment3_result. 
+
 ## IEMS469 HW2 Deep Q-Learning
 The code and result are presented in the notebook [assignment2.jpynb](assignment2.jpynb).
 For MsPacman game, I tried two realization of deep Q network:
