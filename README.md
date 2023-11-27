@@ -1,7 +1,12 @@
 ## IEMS469 HW3 FedAvg
+### Part 1
 The report is shown in assignment3_report.pdf.
 The code and result are presented in the notebook [assignment3.ipynb](assignment3.ipynb).
 The training model and experiment log are solved in the folder assignment3_result. 
+### Part 2
+The report is shown in assignment3_part2_report.pdf.
+The code and result are presented in the notebook [assignment3_part2.ipynb](assignment3_part2.ipynb).
+The training model and experiment log are solved in the folder assignment3_part2_result. 
 
 ## IEMS469 HW2 Deep Q-Learning
 The code and result are presented in the notebook [assignment2.ipynb](assignment2.ipynb).
