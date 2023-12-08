@@ -1,3 +1,8 @@
+## IEMS469 HW4 AutoML
+The report is shown in assignment4_report.pdf.
+The code and result are presented in the notebook [assignment4.ipynb](assignment4.ipynb).
+The training results and experiment log are saved in the folder assignment4_result. 
+
 ## IEMS469 HW3 FedAvg
 ### Part 1
 The report is shown in assignment3_report.pdf.
